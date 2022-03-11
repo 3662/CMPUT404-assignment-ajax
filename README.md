@@ -17,4 +17,7 @@ Files server.py and static/index.html contain contributions from:
     Felipe Rodriguez Atuesta
 ```
 
+Collaboration
+========================
 
+No collaboration 
